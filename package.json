@@ -1,0 +1,42 @@
+{
+  "name": "triangle-quadrature",
+  "version": "1.0.0",
+  "description": "Gaussian quadrature for a triangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ataber/triangle-quadrature.git"
+  },
+  "keywords": [
+    "triangle",
+    "integrate",
+    "quadrature",
+    "gauss",
+    "integral",
+    "mesh",
+    "simplicial",
+    "complex",
+    "integration"
+  ],
+  "author": "Andrew Taber <andrew.e.taber@gmail.com> (http://taber.space)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ataber/triangle-quadrature/issues"
+  },
+  "homepage": "https://github.com/ataber/triangle-quadrature#readme",
+  "dependencies": {
+    "gauss-quadrature": "^1.0.0",
+    "gl-vec3": "^1.0.3"
+  },
+  "devDependencies": {
+    "bunny": "^1.0.1",
+    "gl-mat4": "^1.1.4",
+    "mesh-mass": "^1.0.0",
+    "normals": "^1.1.0",
+    "regl": "^1.3.0",
+    "regl-camera": "^2.1.1"
+  }
+}
