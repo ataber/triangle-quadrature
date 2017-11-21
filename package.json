@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "bunny": "^1.0.1",
+    "colormap": "^2.3.0",
     "gl-mat4": "^1.1.4",
     "mesh-mass": "^1.0.0",
     "normals": "^1.1.0",
